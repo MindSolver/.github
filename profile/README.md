@@ -26,7 +26,7 @@ For the backend, we actively utilized Google's Firebase. For creating small-scal
 ### Machine Learning
 In the process of making diaries from users' memo, I utilized the GPT-4 Turbo API. During this process, I also experimented with Google's language model, Gemini, and found that Gemini also showed satisfactory performance in diary generation from the perspective of 'diary creation'. However, from the user's perspective, for the implementation of asynchronous processing and customized diary creation for each user, using the GPT API proved to be more effective. Therefore, I ultimately chose to use the GPT API.
 
-### Role
+## Role
 
 [Hong-Mu](https://github.com/Hong-Mu) 👑채홍무👑: Flutter & Firebase  
 [NamisMe](https://github.com/NamisMe) 남영진: FastAPI & GPT API  
