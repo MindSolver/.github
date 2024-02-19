@@ -12,6 +12,7 @@ South Korea has the highest prevalence rate of depression among OECD countries, 
 We have set our goal to address the 3rd United Nations Sustainable Development Goal, 'GOOD HEALTH AND WELL-BEING', by aiming to alleviate the early symptoms of depression. Depression, when diagnosed early, can have an 80% cure rate; however, if not addressed, it can significantly impact an individual's health. According to statistics from the Health Insurance Review & Assessment Service in South Korea, the highest prevalence and growth rates of depression are among teenagers and young adults in their 20s. Considering the accessibility and convenience of smartphones for teenagers and young adults, we have targeted students and young people in their teens and 20s in South Korea.
 
 ## Implementation
+<img width="612" alt="스크린샷 2024-02-19 오후 9 02 25" src="https://github.com/MindSolver/.github/assets/92268965/d6e81330-b0fb-41e6-9dd0-933e0ae9c262">
 
 Our team selected Flutter for the frontend of our solution. Flutter is used for cross-platform mobile app development, facilitating UI design and interaction with Firebase and backend servers. Firebase serves to store user account information and data. The backend server is utilized for pre-processing and post-processing in the GPT API calling process and uses Server-Side Events (SSE) to deliver real-time responses to the frontend.
 
